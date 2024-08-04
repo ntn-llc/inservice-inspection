@@ -1,0 +1,348 @@
+Uri: https://nmkresources.com/
+File Name: C:\Users\admin\Desktop\nmkresources.com\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/home/
+File Name: C:\Users\admin\Desktop\nmkresources.com\home\index.htm
+Content Type: text/html
+
+Uri: http://gmpg.org/xfn/11
+File Name: C:\Users\admin\Desktop\nmkresources.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://nmkresources.com/home/feed/
+File Name: C:\Users\admin\Desktop\nmkresources.com\home\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/normalize.min.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\normalize.min.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/foundation.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\foundation.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/style.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\style.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/slick.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\slick.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/page-css.php
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\page-css.php.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/plugins/site-reviews/assets/css/site-reviews.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\site-reviews\assets\css\site-reviews.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/our-vision/
+File Name: C:\Users\admin\Desktop\nmkresources.com\our-vision\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/services/
+File Name: C:\Users\admin\Desktop\nmkresources.com\services\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/about-us/
+File Name: C:\Users\admin\Desktop\nmkresources.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/contact-us/
+File Name: C:\Users\admin\Desktop\nmkresources.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/contact-us/locations/
+File Name: C:\Users\admin\Desktop\nmkresources.com\contact-us\locations\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/ethics-compliance-code/
+File Name: C:\Users\admin\Desktop\nmkresources.com\ethics-compliance-code\index.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/wp-content/plugins/linknowmedia-email/styles/jquery.datetimepicker.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\linknowmedia-email\styles\jquery.datetimepicker.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/scripts/jquery.min.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\scripts\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/js/foundation/foundation.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\js\foundation\foundation.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/js/foundation/foundation.topbar.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\js\foundation\foundation.topbar.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/f9c8f97a41.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\f9c8f97a41.js
+Content Type: text/javascript
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/scripts/vendor/modernizr.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\scripts\vendor\modernizr.js
+Content Type: application/javascript
+
+Uri: https://cdn.polyfill.io/v2/polyfill.js?features=CustomEvent%2CElement.prototype.closest%2CElement.prototype.dataset%2CEvent&flags=gated&ver=4.9.23
+File Name: C:\Users\admin\Desktop\nmkresources.com\v2\polyfill.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/logo.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\logo.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/slide-01.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\slide-01.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/slide-02.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\slide-02.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/slide-03.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\slide-03.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/slide-04.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\slide-04.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/slide-05.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\slide-05.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/home-img1.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\home-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/formValidation/reCaptcha/get_captcha.php
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\formValidation\reCaptcha\get_captcha.php.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/images/refresh.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\images\refresh.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/scripts/cookie-js.min.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\scripts\cookie-js.min.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/scripts/lnm-scripts.min.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\scripts\lnm-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/slick.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/js/foundation/foundation.equalizer.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\js\foundation\foundation.equalizer.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/plugins/linknowmedia-email/scripts/jquery.datetimepicker.full.min.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\linknowmedia-email\scripts\jquery.datetimepicker.full.min.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/plugins/linknowmedia-email/formValidation/js/languages/jquery.validationEngine-en.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\linknowmedia-email\formValidation\js\languages\jquery.validationEngine-en.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/plugins/linknowmedia-email/formValidation/js/jquery.validationEngine.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\linknowmedia-email\formValidation\js\jquery.validationEngine.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/plugins/linknowmedia-email/scripts/lnm-contactform.min.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\linknowmedia-email\scripts\lnm-contactform.min.js
+Content Type: application/javascript
+
+Uri: https://developers.google.com/maps/
+File Name: C:\Users\admin\Desktop\nmkresources.com\maps\index.htm
+Content Type: text/html
+
+Uri: https://cdn.polyfill.io/v3/
+File Name: C:\Users\admin\Desktop\nmkresources.com\v3\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Users\admin\Desktop\nmkresources.com\index-1.htm
+Content Type: text/html
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/images/x.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\images\x.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/images/newstars.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\images\newstars.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/ajax-loader.gif
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/fonts/slick.eot
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/fonts/slick.eot?
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/fonts/slick.woff
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/fonts/slick.ttf
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/slick/fonts/slick.svg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/home-img2.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\home-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/home-img3.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\home-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/home-img4.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\home-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/vision-bg.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\vision-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/header-inner.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\header-inner.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/header-innerabout.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\header-innerabout.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/mobile-bg.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\mobile-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/home-img1m.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\home-img1m.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/small-bg.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\small-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/home-img1s.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\home-img1s.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/plugins/site-reviews/assets/img/star-empty.svg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\site-reviews\assets\img\star-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://nmkresources.com/wp-content/plugins/site-reviews/assets/img/star-filled.svg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\site-reviews\assets\img\star-filled.svg
+Content Type: image/svg+xml
+
+Uri: https://nmkresources.com/wp-content/plugins/site-reviews/assets/img/star-half.svg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\plugins\site-reviews\assets\img\star-half.svg
+Content Type: image/svg+xml
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/ourvision1.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\ourvision1.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/services/feed/
+File Name: C:\Users\admin\Desktop\nmkresources.com\services\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/additivetreatment.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\additivetreatment.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/bunkerfueltesting.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\bunkerfueltesting.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/bqs.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\bqs.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/draftsurvey.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\draftsurvey.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/inspection.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\inspection.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/losscontrol.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\losscontrol.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/railcartanksurvey.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\railcartanksurvey.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/tankcalibration.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\tankcalibration.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/testing.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\testing.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/js/foundation/foundation.tab.js
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\js\foundation\foundation.tab.js
+Content Type: application/javascript
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/about-img1.jpg
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\about-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://nmkresources.com/contact-us/feed/
+File Name: C:\Users\admin\Desktop\nmkresources.com\contact-us\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nmkresources.com/wp-content/themes/ui13/styles/jquery.datetimepicker.css
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\themes\ui13\styles\jquery.datetimepicker.css
+Content Type: text/css
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon1.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon1.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon2.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon2.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon3.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon3.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon4.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon4.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon5.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon5.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon6.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon6.png
+Content Type: image/png
+
+Uri: https://nmkresources.com/wp-content/uploads/sites/1224/2023/02/icon7.png
+File Name: C:\Users\admin\Desktop\nmkresources.com\wp-content\uploads\sites\1224\2023\02\icon7.png
+Content Type: image/png
+
